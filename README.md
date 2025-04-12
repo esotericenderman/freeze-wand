@@ -1,6 +1,6 @@
 # Freeze Wand
 
-[![Project Status: Completed](./assets/images/badges/status.svg)](./)
+[![Project status: completed](./assets/images/badges/status.svg)](./)
 
 > A simple freeze wand plugin, which allows admins and staff to freeze players by right-clicking them with a custom stick item.
 
