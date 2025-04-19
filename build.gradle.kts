@@ -53,6 +53,8 @@ bukkitPluginYaml {
 
   authors = listOf("Esoteric Enderman")
 
+  website = "https://github.com/esotericenderman/freeze-wand"
+
   version = project.version.toString()
   apiVersion = minecraftVersion
   main = "$group.minecraft.plugins.freeze.${name.get()}Plugin"
