@@ -4,6 +4,10 @@
 
 > A simple freeze wand plugin, which allows admins and staff to freeze players by right-clicking them with a custom stick item.
 
+## Information
+
+- [Credit](./CREDIT.md)
+
 ## License
 
 &copy; 2024-2025 [Esoteric Enderman](https://enderman.dev)
