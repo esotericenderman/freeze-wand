@@ -1,4 +1,4 @@
-package dev.enderman.minecraft.plugins.freeze.event.listeners;
+package dev.enderman.minecraft.plugins.freeze.events.listeners;
 
 import dev.enderman.minecraft.plugins.freeze.FreezeWandPlugin;
 import dev.enderman.minecraft.plugins.freeze.language.Message;
