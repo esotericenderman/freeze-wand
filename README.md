@@ -4,8 +4,8 @@
 
 <p align="center">A simple freeze wand plugin, which allows admins and staff to freeze players by right-clicking them with a custom stick item.</p>
 
-<p align="center"><a href="/"><img src="./assets/gifs/showcase.gif" alt="Showcase video" /></a></p>
-<p align="center"><a href="/"><img src="./assets/images/screenshots/item.png" alt="Freeze wand item" /></a></p>
+<p align="center"><a href="/"><img src="./assets/gifs/showcase.gif" width="600" alt="Showcase video" /></a></p>
+<p align="center"><a href="/"><img src="./assets/images/screenshots/item.png" width="600" alt="Freeze wand item" /></a></p>
 
 <h2 align="center">Information</h2>
 
