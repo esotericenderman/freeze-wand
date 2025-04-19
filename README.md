@@ -1,15 +1,15 @@
-# Freeze Wand
+<h1 align="center">Freeze Wand</h1>
 
-[![Project status: completed](./assets/images/badges/status.svg)](./)
+<p align="center"><a href="/"><img src="./assets/images/badges/status.svg" alt="Project status: completed" /></a></p>
 
-> A simple freeze wand plugin, which allows admins and staff to freeze players by right-clicking them with a custom stick item.
+<p align="center">A simple freeze wand plugin, which allows admins and staff to freeze players by right-clicking them with a custom stick item.</p>
 
-![Showcase video](./assets/gifs/showcase.gif)
-![Freeze wand item](./assets/images/screenshots/item.png)
+<p align="center"><a href="/"><img src="./assets/gifs/showcase.gif" alt="Showcase video" /></a></p>
+<p align="center"><a href="/"><img src="./assets/images/screenshots/item.png" alt="Freeze wand item" /></a></p>
 
-## Information
+<h2 align="center">Information</h2>
 
-- [Credit](./CREDIT.md)
+<p align="center"><a href="./CREDIT.md">Credit</a></p>
 
 ## License
 
