@@ -14,7 +14,7 @@ plugins {
 description = "A simple freeze wand plugin, which allows admins and staff to freeze players by right-clicking them with a custom stick item."
 
 group = "dev.enderman"
-version = "1.0.0-SNAPSHOT"
+version = "1.0.0"
 
 val javaVersion = 21
 val minecraftVersion = "1.21"
