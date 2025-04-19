@@ -15,7 +15,7 @@
 
 &copy; 2024-2025 [Esoteric Enderman](https://enderman.dev)
 
-[Freeze Wand](./) is licensed under the [AGPL 3.0](./LICENSE) only.
+[Freeze Wand](/) is licensed under the [AGPL 3.0](./LICENSE) only.
 
 ## Topics
 
