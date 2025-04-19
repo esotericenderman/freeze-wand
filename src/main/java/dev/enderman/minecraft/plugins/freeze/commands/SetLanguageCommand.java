@@ -1,8 +1,8 @@
-package dev.enderman.minecraft.plugins.freezewand.commands;
+package dev.enderman.minecraft.plugins.freeze.commands;
 
-import dev.enderman.minecraft.plugins.freezewand.FreezeWandPlugin;
-import dev.enderman.minecraft.plugins.freezewand.language.LanguageManager;
-import dev.enderman.minecraft.plugins.freezewand.language.Message;
+import dev.enderman.minecraft.plugins.freeze.FreezeWandPlugin;
+import dev.enderman.minecraft.plugins.freeze.language.LanguageManager;
+import dev.enderman.minecraft.plugins.freeze.language.Message;
 import dev.jorel.commandapi.CommandAPICommand;
 import dev.jorel.commandapi.arguments.Argument;
 import dev.jorel.commandapi.arguments.ArgumentSuggestions;

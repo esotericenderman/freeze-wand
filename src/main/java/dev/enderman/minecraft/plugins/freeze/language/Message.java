@@ -1,4 +1,4 @@
-package dev.enderman.minecraft.plugins.freezewand.language;
+package dev.enderman.minecraft.plugins.freeze.language;
 
 public enum Message {
     SET_LANGUAGE_SUCCESSFULLY,

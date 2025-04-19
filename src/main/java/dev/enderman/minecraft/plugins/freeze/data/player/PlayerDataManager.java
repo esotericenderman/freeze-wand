@@ -1,7 +1,7 @@
-package dev.enderman.minecraft.plugins.freezewand.data.player;
+package dev.enderman.minecraft.plugins.freeze.data.player;
 
 import com.google.gson.Gson;
-import dev.enderman.minecraft.plugins.freezewand.FreezeWandPlugin;
+import dev.enderman.minecraft.plugins.freeze.FreezeWandPlugin;
 import org.bukkit.entity.Player;
 import org.jetbrains.annotations.NotNull;
 

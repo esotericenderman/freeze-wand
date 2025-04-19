@@ -51,6 +51,6 @@ bukkitPluginYaml {
 
   version = project.version.toString()
   apiVersion = minecraftVersion
-  main = "$group.minecraft.plugins.freezewand.${name.get()}Plugin"
+  main = "$group.minecraft.plugins.freeze.${name.get()}Plugin"
   load = BukkitPluginYaml.PluginLoadOrder.STARTUP
 }

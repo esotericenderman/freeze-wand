@@ -1,4 +1,4 @@
-package dev.enderman.minecraft.plugins.freezewand.data.player;
+package dev.enderman.minecraft.plugins.freeze.data.player;
 
 import java.util.UUID;
 
