@@ -34,6 +34,10 @@ dependencies {
 }
 
 tasks {
+  build {
+    dependsOn(shadowJar)
+  }
+
   compileJava {
     options.release = javaVersion
   }
